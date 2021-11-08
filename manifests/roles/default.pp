@@ -1,6 +1,6 @@
-# Class: infra::profiles::default
+# Class: infra::roles::default
 #
 #
-class infra::profiles::default {
+class infra::roles::default {
   include infra::profiles::demo
 }
